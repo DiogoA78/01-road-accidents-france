@@ -91,7 +91,7 @@ jupyter notebook notebooks/01_nettoyage_exploration.ipynb
 
 ### 📊 Dashboard interactif
 
-> [🔗 Voir le dashboard sur Looker Studio]([URL_DU_DASHBOARD](https://datastudio.google.com/reporting/8be64b29-5b0f-4505-a12e-3650e3cf43af))
+> [🔗 Voir le dashboard sur Looker Studio](https://datastudio.google.com/reporting/8be64b29-5b0f-4505-a12e-3650e3cf43af)
 
 Le dashboard permet d'explorer les données via 4 pages :
 - **Vue d'ensemble** — KPIs, évolution annuelle, carte de France
