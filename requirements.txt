@@ -1,0 +1,22 @@
+# Data manipulation
+pandas>=2.0
+numpy>=1.24
+
+# Visualization
+plotly>=5.18
+seaborn>=0.13
+matplotlib>=3.8
+folium>=0.15
+
+# SQL
+sqlalchemy>=2.0
+
+# Jupyter
+jupyter>=1.0
+notebook>=7.0
+ipykernel>=6.0
+
+# Utilities
+requests>=2.31
+tqdm>=4.66
+pathlib2>=2.3; python_version < "3.4"
